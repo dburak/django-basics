@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/Users/Burak/.local/share/virtualenvs/django-basics-UO7xlDtu/bin/python",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
